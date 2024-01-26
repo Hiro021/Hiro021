@@ -1,4 +1,4 @@
-<h1> Olá eu sou Gabriel dos Santos 👋 </h1>
+<h1> Oi, me chamo Gabriel 👋 </h1>
 <div>
 <img alt="Maksym's GitHub stats" align= "center" src="https://github-readme-stats.vercel.app/api?username=hiro021&show_icons=true&theme=radical"/>
 <img alt="Top langs" align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro021&layout=compact&&langs_count=8&theme=radical"/>
